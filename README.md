@@ -1,2 +1,2 @@
 # Git-Test
-Git Test
+Use to test git operations. :)
